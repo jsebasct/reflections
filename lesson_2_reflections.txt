@@ -13,3 +13,10 @@ it is not the working copy cause some of the current changes in your working cop
 If offtes the value of just commit some things and if you made a mistake of adding something that was not suppose to commit
 you can revert somehow that change and not commit it.
 
+--------------------------------------------------------------------------------------------------------------------------
+
+Q: How can you use the staging area to make sure you have one commit per logical change ?
+
+by checking it before doing a commit and in that way be sure knowing what you are commiting.
+with git diff --staged
+
