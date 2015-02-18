@@ -1,0 +1,15 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+a hidden directory is created, you dont need an internet conection :)
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area is a temporary storage of your work
+it is no the repo cause just you can see your own changes
+it is not the working copy cause some of the current changes in your working copy should not be committed.
+
+If offtes the value of just commit some things and if you made a mistake of adding something that was not suppose to commit
+you can revert somehow that change and not commit it.
+
