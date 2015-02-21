@@ -20,3 +20,11 @@ Q: How can you use the staging area to make sure you have one commit per logical
 by checking it before doing a commit and in that way be sure knowing what you are commiting.
 with git diff --staged
 
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+that depends on the way you have to organize
+maybe for bugs
+you can separted big logical changes into branches
+
