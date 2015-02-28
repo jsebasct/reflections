@@ -28,3 +28,17 @@ that depends on the way you have to organize
 maybe for bugs
 you can separted big logical changes into branches
 
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Q: How do the diagrams help you visualize the branch structure?
+
+By given a bird view of the commits and letting you know where the branches where putted together
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do ?
+
+The result is that one of the branches loses his label and is joined with the master branch.
+??
