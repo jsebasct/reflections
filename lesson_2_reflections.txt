@@ -42,3 +42,11 @@ Q: What is the result of merging two branches together? Why do we represent it i
 
 The result is that one of the branches loses his label and is joined with the master branch.
 ??
+
+
+--------------------------------------------------------------------------------------------------------------------------
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually ?
+
+you need to control when to merge, that process can't be automatical !!
+
+
