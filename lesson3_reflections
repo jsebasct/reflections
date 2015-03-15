@@ -29,3 +29,10 @@ Q: What is the benefit of having a copy of the last known state of the remote st
 
 Well the only thing that comes to my mind is that you can compare against that in any momment
 lests say before commiting.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without a version control system, I mean without git, it would be harder since we would need to copy and compare manually
+without a server were we can put our things we would need to buy another service to make this happen.
