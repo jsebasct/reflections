@@ -36,3 +36,21 @@ Q: How would you collaborate without using Git or GitHub? What would be easier, 
 
 Without a version control system, I mean without git, it would be harder since we would need to copy and compare manually
 without a server were we can put our things we would need to buy another service to make this happen.
+
+
+---------------------------------------------------------------------------------------------------------------------
+Q: When would you want to make changes in a separate branch rather than directly in master? 
+   What benefits does each approach have?
+
+I want to make changes in a separate branch when I am working on a feature that could take some time, or that is going to 
+need a considerable change in the code structure, for every new feature or bug I could use a branch.
+
+Maybe is better doing directly in the master branch if the change is very small and you are completely sure
+that your change is not going to break anything
+
+
+
+
+
+
+
